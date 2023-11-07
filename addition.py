@@ -1,3 +1,6 @@
-a=int(input("Enter the first value: "))
-b=int(input("Enter the second value: "))
-return a+b
+a=int(input("Enter the number of values to add: "))
+b=0
+for i in range(a):
+    c=int(input("Enter the",(i+1),"value:"))
+    b+=c
+return b
