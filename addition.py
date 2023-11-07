@@ -3,5 +3,5 @@ b=0
 for i in range(a):
     c=int(input("Enter the",(i+1),"value:"))
     b+=c
-    print('This is Jahangir')
+    print('This is Jahangir_mohammad')
 return b
