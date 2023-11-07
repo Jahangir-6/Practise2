@@ -5,4 +5,4 @@ for i in range(a):
     b+=c
     print('This is Jahangir_mohammad')
 return b
-er[guhaikrljghoiwR;3UJERKGJVAOERAGIFG DJNGGGGGGGGGGGGGGGGGGGGGGGGGG]
+rthrthfghfg
